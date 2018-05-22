@@ -13,10 +13,10 @@ if (process.env.JAWSDB_URL){
   connection = mysql.createConnection(process.env.JAWSDB_URL);
 }else {
   connection = mysql.createConnection ({
-    host: 'localhost',
-    user: 'root',
-    password: 'hacktheplanet',
-    databse: 'todoagain_db'
+    host: 'y5s2h87f6ur56vae.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+    user: 'et58w1g1stufww16',
+    password: 'sd4qsbjwwh508m6v',
+    databse: 'u9p88lhm03o1093t'
   });
 }
 // Make connection.
