@@ -16,7 +16,7 @@ if (process.env.JAWSDB_URL){
     host: 'y5s2h87f6ur56vae.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
     user: 'et58w1g1stufww16',
     password: 'sd4qsbjwwh508m6v',
-    databse: 'u9p88lhm03o1093t'
+    database: 'u9p88lhm03o1093t'
   });
 }
 // Make connection.
