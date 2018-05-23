@@ -15,9 +15,9 @@ if (process.env.JAWSDB_URL){
 }else {
   connection = mysql.createConnection ({
     host: 'y5s2h87f6ur56vae.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
-    user: 'et58w1g1stufww16',
-    password: 'sd4qsbjwwh508m6v',
-    database: 'u9p88lhm03o1093t'
+    user: 't0evv5690r5062ma',
+    password: 'h0c0lpqt00wa1utt',
+    database: 'jzzt0yxbxyxe78go'
   });
 }
 
